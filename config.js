@@ -11,8 +11,8 @@ global.owner = [
   ['34623442554', '👑 Shizu - Creador 👑', true],
   ['34623442554']
 ] 
-global.suittag = ['34623442554'] 
-global.prems = ['34623442554'] 
+global.suittag = ['16043053968'] 
+global.prems = ['16043053968'] 
 
 global.packname = '(≧▽≦)'
 global.author = '⍟𝗦𝗵𝗶𝘇𝘂 » 𝗛𝘂𝗯⍟'
@@ -444,7 +444,7 @@ global.mysticbot = 'https://github.com/Shizu-Hub/Shizu-Bot-MD'
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
-global.nomorown = '34623442554'
+global.nomorown = '16043053968'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 global.cmenut = '❖––––––『'
 global.cmenub = '┊✦ '
